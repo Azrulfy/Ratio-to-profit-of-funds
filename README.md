@@ -1,1 +1,1 @@
-# ProfitPercentage
+# Ratio to profit of funds
